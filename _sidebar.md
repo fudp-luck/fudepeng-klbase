@@ -1,5 +1,5 @@
 <!-- _sidebar.md -->
-* [目录🔥](/README.md)
+* [目录🔥](/catalogue.md)
 * [关于我:sun_with_face:](/SELFINTRODUCTION.md)
 * 核心基础
   * [设计模式 （V20.1.x）](/docs/basis/DesignPattern.md)

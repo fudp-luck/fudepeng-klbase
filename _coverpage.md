@@ -9,4 +9,4 @@
 - 欢迎交流
 
 
-[:earth_asia:  开始淦吧 >>](/README.md)
+[:earth_asia:  开始淦吧 >>](/catalogue.md)
