@@ -18,7 +18,7 @@
 * 数据库|缓存
   * [MySQL 调优 （V20.1.x）](/docs/database/mysql.md)
   * [Caffeine Cache 手册 （V24.1.x）](/docs/database/CaffeineCacheNote.md)
-  * [Redis 概述 （V20.1.x）](/docs/database/Redis.md)
+  * [Redis 概述 （V20.1.x）](/docs/database/RedisNote.md)
   * [Redis6.x 源码 （V23.1.x）](/docs/database/Redis6.x.md)
 * 工具使用
   * [Git 手册 （V20.1.x）](/docs/tools/)

@@ -47,7 +47,7 @@
 <br/>| <span style="margin-left: 20px;"/>
 :point_right:​  <span style="margin-right: 100px; margin-left: 20px; line-height: 50px; font-size: 18px;"> [Caffeine Cache 手册 （V24.1.x）](docs/database/CaffeineCacheNote.md):star2:</span>
 <br/>| <span style="margin-left: 20px;"/>
-:point_right:​  <span style="margin-right: 100px; margin-left: 20px; font-size: 18px;"> [Redis 概述 （V20.1.x）](docs/database/Redis.md):star2:</span>
+:point_right:​  <span style="margin-right: 100px; margin-left: 20px; font-size: 18px;"> [Redis 概述 （V20.1.x）](docs/database/RedisNote.md):star2:</span>
 | <span style="margin-left: 20px;"/>
 :point_right:​  <span style="margin-right: 100px; margin-left: 20px; font-size: 18px;"> [Redis6.x 源码 （V23.1.x）](docs/database/Redis.md):dizzy:</span>
 <span style="margin-left: 20px;"/>
