@@ -43,7 +43,7 @@
 <p style="font-size: 24px; color: orange; "><b>数据库    |    缓存</b></p>
 
 | <span style="margin-left: 20px;"/>
-:point_right:​  <span style="margin-right: 100px; margin-left: 20px; font-size: 18px;"> [MySQL 调优 （V20.1.x）](docs/database/Redis.md):star2:</span>
+:point_right:​  <span style="margin-right: 100px; margin-left: 20px; font-size: 18px;"> [MySQL 调优 （V20.1.x）](docs/database/MySQL调优Note.md):star2:</span>
 <br/>| <span style="margin-left: 20px;"/>
 :point_right:​  <span style="margin-right: 100px; margin-left: 20px; line-height: 50px; font-size: 18px;"> [Caffeine Cache 手册 （V24.1.x）](docs/database/CaffeineCacheNote.md):star2:</span>
 <br/>| <span style="margin-left: 20px;"/>

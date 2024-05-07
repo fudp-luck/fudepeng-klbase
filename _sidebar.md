@@ -16,13 +16,12 @@
   * [RocketMQ 源码分析 （V23.1.x）](/PctDocs/MiddlewareDocs/)
   * [Zookeeper 工作手册 （V22.1.x）](/docs/middleware/)
 * 数据库|缓存
-  * [MySQL 调优 （V20.1.x）](/docs/database/mysql.md)
+  * [MySQL 调优 （V20.1.x）](/docs/database/MySQL调优Note.md)
   * [Caffeine Cache 手册 （V24.1.x）](/docs/database/CaffeineCacheNote.md)
   * [Redis 概述 （V20.1.x）](/docs/database/RedisNote.md)
   * [Redis6.x 源码 （V23.1.x）](/docs/database/Redis6.x源码Note.md)
 * 工具使用
   * [Git 手册 （V20.1.x）](docs/tools/GitNote.md)
   * [Hippo4j 手册 （V20.1.x）](/docs/tools/Hippo4jNote.md)
-  * <a href="http://localhost:3000/#/ProjectDocs/DatabaseDocs/Redis" target="_blank">redis测试</a>
 * 工具类手册
 * 优秀博客参考
