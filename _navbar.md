@@ -14,8 +14,6 @@
 
 
 * :runner:<span style="margin-left: 10px;"/>友情链接
-    * [Docsify](https://docsify.js.org/#/)
-    * [博客园](https://www.cnblogs.com/)
 
 * 
 

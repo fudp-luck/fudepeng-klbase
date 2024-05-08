@@ -2,12 +2,10 @@
 * [目录🔥](/catalogue.md)
 * [关于我:sun_with_face:](/SELFINTRODUCTION.md)
 * 核心基础
-
-[//]: # (  * [设计模式 （V20.1.x）]&#40;/docs/basis/DesignPattern.md&#41;)
   * [JVM （V20.1.x）](/docs/basis/JVM.md)
   * [并发编程 （V20.1.x）](/docs/basis/ConcurrentProgramming.md)
   * [响应式编程 （V23.1.x）](/docs/basis/响应式编程.md)
-
+[//]: # (  * [设计模式 （V20.1.x）]&#40;/docs/basis/DesignPattern.md&#41;)
 [//]: # (* 框架生态)
 
 [//]: # (  * [Spring 工作手册 （V21.1.x）]&#40;/docs/framework/&#41;)
