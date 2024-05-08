@@ -8,7 +8,7 @@
 [//]: # (| <span style="margin-left: 20px;"/>)
 [//]: # (:point_right:​  <span style="margin-right: 100px; margin-left: 20px; font-size: 18px;"> [设计模式 （V20.1.x）]&#40;docs/basis/Redis.md&#41;:star2:</span>)
 | <span style="margin-left: 20px;"/>
-:point_right:​  <span style="margin-right: 100px; margin-left: 20px; line-height: 50px; font-size: 18px;"> [JVM （V20.1.x）](docs/basis/Redis.md):star2:</span>
+:point_right:​  <span style="margin-right: 100px; margin-left: 20px; line-height: 50px; font-size: 18px;"> [JVM （V20.1.x）](docs/basis/JVM.md):star2:</span>
 <br/>| <span style="margin-left: 20px;"/>
 :point_right:​  <span style="margin-right: 100px; margin-left: 20px; font-size: 18px;"> [并发编程 （V20.1.x）](docs/basis/ConcurrentProgramming.md):star2:</span>
 <br/>| <span style="margin-left: 20px;"/>
